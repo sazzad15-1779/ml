@@ -1,0 +1,179 @@
+.header{
+    
+    width: 100%;
+    background: rgb(14, 5, 102);
+    margin: auto;
+    float: left;
+    height: 80px;
+    margin-bottom: 5px;
+}
+.logo{
+overflow: hidden;
+width: 25%;
+height: 100%;
+margin: 0px auto;
+float: left;
+
+}
+.logo img{
+
+    height: 60px;
+    width: 70px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
+}
+.nevbar{
+    float: right;
+    color: rgb(238, 15, 15);
+   margin-top: 3%;
+    width: 60%;
+    height: 100%;
+    text-align: right;
+    margin-right: 15%;
+}
+.nevbar a{
+height: 100%;
+margin: 5px;
+text-decoration: none;
+color: rgb(199, 171, 49);    
+
+}
+.nevbar a:hover{
+background: rgb(0, 0, 0);
+font-size: 18px;
+color: rgb(16, 189, 10);
+}
+.body{
+   
+    background: rgb(247, 243, 243);
+    width: 100%;
+    height:auto;
+    
+}
+
+.slidewrapper{
+background: rgb(253, 253, 253);
+}
+.slider{
+width: 100%;
+
+}
+.slider img{
+    height:160px;
+    width: 33%;
+
+    margin: auto;
+}
+.wrapper{
+    margin: auto;
+width:90%;
+
+}
+.sidbarleft{
+float: left;
+width: 25%;
+height: 650px;
+background: rgb(206, 211, 223);    
+
+}
+.sidbarleft p{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.middlecontent{
+    float: left;
+    width: 50%;
+    height: 650px;
+    background: rgb(209, 207, 194);
+    
+    }
+    .product{
+       
+        width: 100%;
+        
+    }
+    .product img{
+        float: left;
+        width: 50%;
+    }
+    .product h5 {
+        
+        padding-left: 5px;
+      float: left;
+        width: 45%;
+    }
+    .technical_spacification{
+        float: left;
+        width: 100%;
+    }
+  
+
+.sidbarright{
+    float: left;
+    width: 25%;
+    height: 650px;
+    background: rgb(206, 211, 223);    
+    }
+   
+.sample{
+    width: 100%;
+    height: 160px;
+   
+}
+.sample img{
+    margin-left:5px;
+    width: 90%;
+    height: 120px;
+    
+}
+    .footer{
+width: 100%;
+height: 150px;
+margin-top: 4px;
+background: rgb(33, 33, 44);
+float: left;
+overflow: hidden;
+
+    }
+.leftFooter{
+    color: orange;
+float: left;
+text-align: center;
+    width: 33%;
+    padding: 5px;
+border-right:2px dotted oldlace;
+height: 75%;
+border-bottom: tan;
+}
+.midFooter{
+    text-align: center;
+    padding: 5px;
+    float: left;
+    color: orange;
+    width: 30%;
+    height: 75%;
+    border-right:2px dotted oldlace;
+    border-bottom: tan;
+}
+.rightFooter{
+    text-align: center;
+    padding: 5px;
+    float: left;
+    color: orange;
+    
+    width: 33%;
+    height: 75%;
+    
+}
+.rightFooter a{
+    text-decoration: none;
+    text-transform:uppercase;
+    color: rgb(146, 189, 146);
+}
+.copywrite{
+    
+    color: red;
+    text-align: center;
+}
